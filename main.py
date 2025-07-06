@@ -15,7 +15,7 @@ bot = Client(
     "BOT",
     api_id=2159564, 
     api_hash='1854bcaa1971ded08e0142976efd9', 
-    bot_token="7654029423zBA2gi6LAnEdSpax7qfQf38e02zFZ0",
+    bot_token="7718413622:AAG3Px0X8ZbnoqnwWXUSalfC0N6vGf8sskI",
     # bot_token="7712319029:AAEssgnlBU4eIVCKyxXtfznjMK8wk5pDCOs",
     plugins=dict(root="plugins"),
     workers=16  # Increase worker threads for better concurrency
